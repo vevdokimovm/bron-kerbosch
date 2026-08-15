@@ -1,0 +1,2 @@
+description=Алгоритм Брона — Кербоша: поиск всех максимальных клик в графе, базовая и оптимизированная версия с опорной вершиной
+topics=python,algorithms,graph-theory,networkx,computational-complexity,maximal-cliques
